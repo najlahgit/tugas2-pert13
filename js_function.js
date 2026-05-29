@@ -1,4 +1,4 @@
-// File: tugas2_function.js 
+// File: tugas2_function.js  
 
 // Function kompleks dengan parameter dan return value
 function hitungTotalBelanja(namaPelanggan, listHargaItem, apakahMember) {
