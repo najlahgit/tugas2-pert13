@@ -1,5 +1,5 @@
 // File: tugas1_pemilihan.js
-
+ 
 let usia = 17;
 let hari = "Sabtu"; // Pilihan: Senin-Minggu
 let hargaDasar = 40000;
